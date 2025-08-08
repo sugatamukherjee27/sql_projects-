@@ -15,12 +15,8 @@ The dataset includes:
 - Explore purchasing patterns through advanced SQL queries.
 
 ## 🛠️ Technologies Used
-- **SQL (SQLite/PostgreSQL)** – for querying data.
-- **Python (optional)** – for additional visualization or transformation.
-- **Pandas** – if required for CSV manipulation.
-- **Jupyter Notebook** – for interactive exploration (optional).
-- **VS Code / DB Browser** – for working with SQL and data.
-
+- **SQL (PostgreSQL)** – for querying data.
+  
 ## 🔍 Key SQL Queries
 Here are some categories of queries included in the SQL script:
 
